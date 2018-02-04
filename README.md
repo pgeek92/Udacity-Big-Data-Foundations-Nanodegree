@@ -3,6 +3,8 @@ Basics of Hadoop, HDFS Ecosystem, MapReduce Programming, Deployment of Hadoop Cl
 
 Basic Python programming skills is a prerequisite.
 
-big data differs from other traditional data analyzes.
+Big data differs from other traditional data analyzes.
+
 3 V’s of Big data and it's working
+
 Automated methods to deploy large clusters
