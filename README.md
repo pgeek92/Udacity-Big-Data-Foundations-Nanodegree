@@ -137,5 +137,5 @@ Please check [`acc_p2q3.tsv`](ProblemStatement2/1_Output/acc_p2q3.tsv) for the o
 Please check [`acc_p2q3.txt`](ProblemStatement2/2_ExecLogs/Python/acc_p2q3.log) for command line execution log files of Python.
 
 ## License
-Copyright &copy; 2013 Prashanth Babu.<br>
+Copyright &copy; 2018 Prashant Gupta.<br>
 Licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
